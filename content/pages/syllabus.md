@@ -90,11 +90,52 @@ Grading
 
 The final grade will be based on a cumulative total of 885 points computed as follows:
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Nine homework assignments | 225 |
-| Three hour exams |  {{< br >}}{{< br >}} 300 {{< br >}}{{< br >}}  |
-| One final exam | 360 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nine homework assignments
+{{< tdclose >}}
+{{< tdopen >}}
+225
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three hour exams
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+300
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One final exam
+{{< tdclose >}}
+{{< tdopen >}}
+360
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ODE Manipulatives ("Mathlets")
 ------------------------------
