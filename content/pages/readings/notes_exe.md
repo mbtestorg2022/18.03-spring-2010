@@ -41,7 +41,7 @@ Definite integral solutions ([PDF]({{< baseurl >}}/resources/mit18_03s10_d))
 G
 {{< tdclose >}}
 {{< tdopen >}}
-Graphical and numerical methods (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_g))
+Graphical and numerical methods ([PDF]({{< baseurl >}}/resources/mit18_03s10_g))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +59,7 @@ Complex numbers ([PDF]({{< baseurl >}}/resources/mit18_03s10_c))
 IR
 {{< tdclose >}}
 {{< tdopen >}}
-Input-response models (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_ir))
+Input-response models ([PDF]({{< baseurl >}}/resources/mit18_03s10_ir))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +77,7 @@ Linear differential operators ([PDF]({{< baseurl >}}/resources/mit18_03s10_o))
 S
 {{< tdclose >}}
 {{< tdopen >}}
-Stability (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_s))
+Stability ([PDF]({{< baseurl >}}/resources/mit18_03s10_s))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +113,7 @@ Linear systems of ODE's - LS1 of 6 ([PDF]({{< baseurl >}}/resources/mit18_03s10_
 GS
 {{< tdclose >}}
 {{< tdopen >}}
-Graphing systems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_gs))
+Graphing systems ([PDF]({{< baseurl >}}/resources/mit18_03s10_gs))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +122,7 @@ Graphing systems (![This resource may not render correctly in a screen reader.](
 LC
 {{< tdclose >}}
 {{< tdopen >}}
-Limit cycles (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_lc))
+Limit cycles ([PDF]({{< baseurl >}}/resources/mit18_03s10_lc))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +206,7 @@ Fourier series ([PDF]({{< baseurl >}}/resources/mit18_03s10_7ex))
 1
 {{< tdclose >}}
 {{< tdopen >}}
-First-order ODE's (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_1sol))
+First-order ODE's ([PDF]({{< baseurl >}}/resources/mit18_03s10_1sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +215,7 @@ First-order ODE's (![This resource may not render correctly in a screen reader.]
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Higher-order ODE's (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_2sol))
+Higher-order ODE's ([PDF]({{< baseurl >}}/resources/mit18_03s10_2sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +224,7 @@ Higher-order ODE's (![This resource may not render correctly in a screen reader.
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Laplace transform (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_3sol))
+Laplace transform ([PDF]({{< baseurl >}}/resources/mit18_03s10_3sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +233,7 @@ Laplace transform (![This resource may not render correctly in a screen reader.]
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Linear systems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_4sol))
+Linear systems ([PDF]({{< baseurl >}}/resources/mit18_03s10_4sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -242,7 +242,7 @@ Linear systems (![This resource may not render correctly in a screen reader.](/i
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Graphing systems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_5sol))
+Graphing systems ([PDF]({{< baseurl >}}/resources/mit18_03s10_5sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +251,7 @@ Graphing systems (![This resource may not render correctly in a screen reader.](
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Power series (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_6sol))
+Power series ([PDF]({{< baseurl >}}/resources/mit18_03s10_6sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +260,7 @@ Power series (![This resource may not render correctly in a screen reader.](/ima
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Fourier series (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_7sol))
+Fourier series ([PDF]({{< baseurl >}}/resources/mit18_03s10_7sol))
 {{< tdclose >}}
 
 {{< trclose >}}

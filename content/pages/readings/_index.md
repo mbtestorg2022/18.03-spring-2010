@@ -64,7 +64,7 @@ Direction fields, existence and uniqueness of solutions
 
 \[EP\]: 1.2 and 1.3  
   
-\[Notes\]: G.1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_g))  
+\[Notes\]: G.1 ([PDF]({{< baseurl >}}/resources/mit18_03s10_g))  
   
 \[SN\]: 1 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_1))  
   
@@ -84,7 +84,7 @@ Numerical methods
 {{< tdopen >}}
 \[EP\]: 6.1 and 6.2  
   
-\[Notes\]: G.2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_g))  
+\[Notes\]: G.2 ([PDF]({{< baseurl >}}/resources/mit18_03s10_g))  
   
 [Euler's method](http://math.mit.edu/mathlets/mathlets/eulers-method/) Mathlet
 {{< tdclose >}}
@@ -144,7 +144,7 @@ Complex exponentials; sinusoidal functions
 {{< tdopen >}}
 \[SN\]: 4 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_4))  
   
-\[Notes\]: C.4 ([PDF]({{< baseurl >}}/resources/mit18_03s10_c)) and IR.6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_ir))  
+\[Notes\]: C.4 ([PDF]({{< baseurl >}}/resources/mit18_03s10_c)) and IR.6 ([PDF]({{< baseurl >}}/resources/mit18_03s10_ir))  
   
 [Complex roots](http://math.mit.edu/mathlets/mathlets/complex-roots/) Mathlet  
   
@@ -162,7 +162,7 @@ Linear system response to exponential and sinusoidal input; gain, phase lag
 {{< tdopen >}}
 \[SN\]: 4 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_4))  
   
-\[Notes\]: IR.6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_ir))  
+\[Notes\]: IR.6 ([PDF]({{< baseurl >}}/resources/mit18_03s10_ir))  
   
 [Trigonometric identity](http://math.mit.edu/mathlets/mathlets/trigonometric-id/) Mathlet
 {{< tdclose >}}
@@ -404,7 +404,7 @@ Step response, impulse response
 {{< tdopen >}}
 \[SN\]: 18 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_18))  
   
-\[Notes\]: IR (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_ir))
+\[Notes\]: IR ([PDF]({{< baseurl >}}/resources/mit18_03s10_ir))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -480,7 +480,7 @@ The pole diagram
   
 \[SN\]: 23 ([PDF]({{< baseurl >}}/resources/mit18_03s10_chapter_23))  
   
-18.03 Difference Equations and Z-Transforms (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_reading_lec29))(Courtesy of Jeremy Orloff.)  
+18.03 Difference Equations and Z-Transforms ([PDF]({{< baseurl >}}/resources/mit18_03s10_reading_lec29))(Courtesy of Jeremy Orloff.)  
   
 [Amplitude response: Pole diagram](http://math.mit.edu/mathlets/mathlets/amplitude-response-pole-diagram/) Mathlet  
   
@@ -610,7 +610,7 @@ Linearization near equilibria; the nonlinear pendulum
 {{< tdopen >}}
 \[EP\]: 7.4 and 7.5  
   
-\[Notes\]: GS (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_03s10_gs))  
+\[Notes\]: GS ([PDF]({{< baseurl >}}/resources/mit18_03s10_gs))  
   
 \[SN\]: Appendix B ([PDF]({{< baseurl >}}/resources/mit18_03s10_appendix_b))  
   
