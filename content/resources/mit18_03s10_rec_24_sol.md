@@ -3,6 +3,7 @@ content_type: resource
 description: New file Upload
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-03-differential-equations-spring-2010/4b2cd3741f55ae9bc743801b5b3cbeb8_MIT18_03S10_rec_24_sol.pdf
 file_type: application/pdf
+parent_uid: 4b0e29d9-bfd2-45cf-a675-ee8f8ee1e3a2
 resourcetype: Document
 title: MIT18_03S10_rec_24_sol.pdf
 uid: 4b2cd374-1f55-ae9b-c743-801b5b3cbeb8

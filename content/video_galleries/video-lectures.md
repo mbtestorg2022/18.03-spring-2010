@@ -40,7 +40,7 @@ videos:
   website: 18-03-differential-equations-spring-2010
 ---
 
-These video lectures of Professor Arthur Mattuck teaching 18.03 were recorded live in the Spring of 2003 and do not correspond precisely to the lectures taught in the Spring of 2010. This table ([PDF](/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/MIT18_03S10_vlec_table.pdf)) provides a correlation between the video and the lectures in the 2010 version of the course.
+These video lectures of Professor Arthur Mattuck teaching 18.03 were recorded live in the Spring of 2003 and do not correspond precisely to the lectures taught in the Spring of 2010. This table ({{% resource_link "a3a05f3b-d3a4-70c4-858c-dfb46f7d4963" "PDF" %}}) provides a correlation between the video and the lectures in the 2010 version of the course.
 
 The videotaping was made possible by [The d'Arbeloff Fund for Excellence in MIT Education](http://web.mit.edu/darbeloff/).
 
